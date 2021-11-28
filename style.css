@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    border:5px solid black;border-radius:7px;background-color:blue;
+}
+
+nav a{border:3px solid black;text-decoration:none;border-radius:7px;
+}
+main{}
